@@ -1,0 +1,15 @@
+============================== Eliott FERTILLE ==============================
+
+Ce dossier contient tous les fichiers des requêtes sql concernant le TP MySQL du 03/11/2023.
+
+Il contient également le compte-rendu au format .pdf de ce TP avec le développement sur chaque requêtes.
+
+Le fichier createDatabase.sql contient les requêtes de création de la base de données transport_logistique et de ces deux tables "entrepots" et "expeditions".
+
+Le fichier requeteBase.sql contient les requêtes de la première partie du tp.
+
+Le fichier requeteAvancee.sql contient les requêtes de la deuxième partie de ce TP.
+
+Le fichier requeteComplexe.sql contient lui les dernières requêtes sql de ce TP.
+
+Pour finir, le fichier T-SQL.sql contient la vue, la procédure stockée et la fonction de la dernière partie de ce TP.
